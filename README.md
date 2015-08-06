@@ -1,2 +1,2 @@
 # nefarious-meow
-Clustering example on phone data for 
+Classification example on phone data.
